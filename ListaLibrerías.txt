@@ -1,0 +1,16 @@
+## Librerías contenidas en el compilador, que se importan pero no requierenser instaladas:
+grFunciones
+grTrig
+
+
+
+## Archivos de terceros necesario para el uso deIceCompilador01 que deben ser instaladas en el Sell de Windows para ser importadas en el lenguaje
+
+numpy
+pandas
+matplotlib.pyplot
+decimal
+os
+sys
+math
+seaborn
