@@ -47,5 +47,54 @@ AHORA YA PUEDE USAR EL LCON PARA EJEUCTAR LOS PROGRAMAS FUENTES EN LCON
 4. Si pidiera nombre del archivo de datos, digitar la ruta con el nombre del archivo(por ejemplo: d:/progs/ahorro.txt
 
 
+## USO DE LAS LIBRERÍAS PROPIAS Y DE TERCEROS ##
+
+## Librerías contenidas en el compilador, que se importan pero no requierenser instaladas:
+grFunciones
+grTrig
+
+
+## Librerías que vienen con la instalación del Python ##
+
+os
+sys
+math
+
+
+## Archivos de terceros necesario para el uso del IceCompilador01 que deben ser instaladas en el Windows PowerShell para después ser importadas en el lenguaje ##
+
+
+numpy
+decimal
+mandas
+matplotlib
+scipy
+seaborn
+plotnine
+bokeh
+sklearn
+statsmodels
+warnings
+
+
+## Recuerde que: ##
+
+Durante la instalación del Python, debe tener cuidado de marcar las casillas (opciones) donde se proponen añadir el path al sistema y lo referido al PIP. Si no hay mensaje respecto a este último es porque ya lo instala.
+
+## Cómo instalar estas librerías: ##
+
+Estando en el Windows PowerShell:
+pip install xxxx
+donde xxxx debe ser cada uno de los nombres anteriores
+
+
+## Notas adicionales: ##
+
+## N1: ##
+    Si desea ejecutar una de las aplciaciones *.py debe chequear si usa archivos de datos (*.txt) y si éstgos ya están en el repositorio correspondiente para descargarlos y usarlos en su equipo.
+
+## N2": ##
+    Si desea ejecutar un programa fuente en LCON, debe verificar si tanto el programa fuente (en *.txt) como los archivos de datos (*.txt) se encuentran en sus repositorios correspondientes para luego descargarlos y usarlos en su equipo.
+
 
 
