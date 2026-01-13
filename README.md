@@ -56,9 +56,9 @@ grTrig
 
 ## Librerías que vienen con la instalación del Python ##
 
-os
-sys
-math
+# os #
+# sys #
+# math #
 
 
 ## Archivos de terceros necesario para el uso del IceCompilador01 que deben ser instaladas en el Windows PowerShell para después ser importadas en el lenguaje ##
