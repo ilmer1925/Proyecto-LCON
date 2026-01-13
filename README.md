@@ -18,7 +18,7 @@ Los datos requeridos por el programa fuente deben ser ingresados desde el teclad
 <img width="215" height="333" alt="image" src="https://github.com/user-attachments/assets/5b44b737-b244-40db-9a0a-fbbd7dacffe9" />
 
 
-¿CÓMO USARLO?
+# ¿CÓMO USARLO? #
 
 - Disponer de un equipo que como sistema operativo a Windows.
 - Que tengan instalados la última versión del Python.
@@ -50,8 +50,8 @@ AHORA YA PUEDE USAR EL LCON PARA EJEUCTAR LOS PROGRAMAS FUENTES EN LCON
 ## USO DE LAS LIBRERÍAS PROPIAS Y DE TERCEROS ##
 
 ## Librerías contenidas en el compilador, que se importan pero no requierenser instaladas:
-grFunciones
-grTrig
+# grFunciones #
+# grTrig #
 
 
 ## Librerías que vienen con la instalación del Python ##
@@ -64,17 +64,17 @@ grTrig
 ## Archivos de terceros necesario para el uso del IceCompilador01 que deben ser instaladas en el Windows PowerShell para después ser importadas en el lenguaje ##
 
 
-numpy
-decimal
-mandas
-matplotlib
-scipy
-seaborn
-plotnine
-bokeh
-sklearn
-statsmodels
-warnings
+# numpy #
+# decimal #
+# mandas #
+# matplotlib #
+# scipy #
+# seaborn #
+# plotnine #
+# bokeh #
+# sklearn #
+# statsmodels #
+# warnings #
 
 
 ## Recuerde que: ##
