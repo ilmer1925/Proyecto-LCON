@@ -13,7 +13,7 @@ El programa fuente debe ser codificado usando cualquier editor de textos. Yo he 
 (Ante todo debe crear una carpeta de trabajo que contendrá todo los archivos usados en este proyecto)
 
 1. El archivo IceCompilador.py,
-2. El manual del lenguaje LCON, Lenguaje LCON.docx,
+2. El manual del lenguaje LCON, Lenguaje LCON.pdf,
 3. Los archivos (programa fuente con extensión "txt") usados en el manual,
 4. Los archivos de datos (con extensión "txt") usados por los programas fuentes.
 
@@ -43,7 +43,7 @@ Para realizar estos tres pasos no se requiere conocer nada respecto del lenguaje
 - Disponer de un equipo con sistema operativo al Windows.
 - Que tengan instalados la última versión del Python, o por lo menos la versión 3.13.
 - Que tenga instalados, vía el Shell de Windows (Windows PowerShell), todas las librerías contenidas en el archivo ListaLiberias.txt, aquí los incluímos líneas abajo.
-- La instalación del Python (última versión) así como las librerías, se explica detalladamente en el anexo 3 del manual del lenguaje ( ## LenguajeLCon.docx ## )
+- La instalación del Python (última versión) así como las librerías, se explica detalladamente en el anexo 3 del manual del lenguaje ( ## LenguajeLCon.pdf ## )
 - La importación de todas las librerías de terceros, no debe ser preocupación del usuario pues ya se cargan cuando se carga el compilador.
 - Las librerías no necesitan descargarlas; deben ser instaladas en el entorno del Windows PowerShell del Windows usando el PIP
 
@@ -64,7 +64,7 @@ Si por alguna razón se obtiene el mensaje que dice que pip no está instalada, 
 
 Repetimos lo que dijimos antes:
 
-1. Cargar el Python (para una ejecución directa su icono debe estar en la barra de tareas). Esto se explica en el anexo del Manual del LCON.
+1. Cargar el Python (para una ejecución directa su icono debe estar en la barra de tareas). Esto se explica en el anexo del Manual del lenguaje LCON.
 1. Cargar a memoria el IceCompilador01.py usando: <File> - <Open ...> ubicar la carpeta donde descargó el compilador.
 2. Ejecutarlo usando <Run> - <Run module>
 3. Cuando pida el nombre del programa fuente, ingrese la ruta y el archivo (por ejemplo: d:/progs/EjPrg05.txt)
